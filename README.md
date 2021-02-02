@@ -61,7 +61,7 @@ cd cdk-backend/
 npm run deploy
 ```
 
-Stgart the frontend:
+Start the frontend:
 
 ```bash
 cd amplify-storage-react-frontend/
