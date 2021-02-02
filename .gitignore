@@ -1,0 +1,3 @@
+.vscode/
+/amplify-storage-react-frontend/src/cdk-exports.json
+package-lock.json
